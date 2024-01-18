@@ -1,0 +1,113 @@
+ /*BREAK POINT*/
+/*pc*/
+@media (min-width: 1024px) {
+  
+
+}
+
+
+
+/*mobile and tablet*/
+@media (max-width: 1023px){
+    .contact-img,
+    .portfolio-img,
+    .slider-img {
+        background-attachment: scroll;
+        min-height: 200px;
+    }
+/*slider*/
+.text-introduction {
+    font-size: 12px !important;
+    bottom: 35%;
+}
+
+} 
+/*mobile*/
+@media (max-width: 740px){
+
+    p{
+        font-size: 12px !important;
+    }
+    .clear {
+        clear: none !important;
+    }
+    .s-full-width{
+        float: left;
+        width: 100% !important;
+    }
+    .s-padding{
+        padding: 8px 4px !important;
+    }
+
+    *{
+        box-sizing: inherit;
+    }
+    /*header*/
+    .text-introduction {
+        font-size: 10px !important;
+        bottom: 35%;
+    }
+   
+    #header .search-btn {
+        display: none;
+    }
+    #nav li a {
+        padding: 0px 4px !important;
+    }
+   
+    /*nav*/
+    #nav{
+        font-size: 10px;
+    }
+
+
+    /*about*/
+    .avatar{
+        display: none;
+    }
+    .sbox-sizing{
+        box-sizing: border-box !important;
+    }
+
+    /*porfolio*/
+    .s-col-half{
+        box-sizing: border-box !important;
+        width: 50% !important;
+    }
+    .img2 {
+        display: none;
+    }
+    .s-padding{
+        padding-top: 8px !important;
+        padding-bottom: 8px !important;
+    }
+
+    .loadBtn{
+        margin-top: 24px;
+        font-size: 10px;
+        padding: 6px 12px !important; 
+    }
+
+    /*contact*/
+    .map{
+        display: none;
+    }
+    .s-text{
+        font-size: 16px !important;
+    }
+    .text-introduction2{
+        font-size: 24px !important;
+    }
+
+    .formContact{
+        display: none;
+    }
+
+    #footer {
+        padding: 32px 8px !important;
+        
+    }
+
+    
+    
+}
