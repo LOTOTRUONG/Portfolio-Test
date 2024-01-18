@@ -290,7 +290,7 @@ p{
 
 .slider-img{
     background-attachment: fixed;
-    background-image: url('../assets/img/wallpaper.jpg');
+    background-image: url('../img/wallpaper.jpg');
     min-height: 100vh;
     background-position: center;
     background-repeat: no-repeat;
@@ -332,7 +332,7 @@ p{
 
 .portfolio-img{
     background-attachment: fixed;
-    background-image: url('../assets/img/portfolio.jpg');
+    background-image: url('../img/portfolio.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -382,7 +382,7 @@ p{
 
 .contact-img{
     background-attachment: fixed;
-    background-image: url('../assets/img/contact.png');
+    background-image: url('../img/contact.png');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
