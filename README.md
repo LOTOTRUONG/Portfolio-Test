@@ -14,4 +14,4 @@ function.js: Use this file to make your website dynamic and interactive with Jav
 Note: The styles.css and scripts.js files link into the index.html file so that they are all connected.
 
 # 👋 Final Result
-This is final result as the website: https://cvloantruong.w3spaces.com/
+This is final result as the website:[ https://cvloantruong.w3spaces.com/](https://lototruong.github.io/Website-PortfolioV1/)https://lototruong.github.io/Website-PortfolioV1/
